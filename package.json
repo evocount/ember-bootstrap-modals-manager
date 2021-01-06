@@ -1,5 +1,5 @@
 {
-  "name": "ember-bootstrap-modals-manager",
+  "name": "@evocount/ember-bootstrap-modals-manager",
   "version": "3.3.0",
   "description": "Modals-manager for modals from ember-bootstrap",
   "keywords": [
